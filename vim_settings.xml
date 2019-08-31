@@ -1,0 +1,254 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/work/idea_ws/HelloWord/pom.xml" timestamp="1564627469953">
+        <mark key="'" line="21" column="26" />
+        <mark key="[" line="66" column="11" />
+        <mark key="]" line="66" column="11" />
+        <mark key="." line="66" column="11" />
+        <mark key="^" line="66" column="11" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/scala/WatchPath.scala" timestamp="1565077182125">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1567213856537">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/work/testmaven/src/main/java/com/zcxc/util/CosineSimilarity.java" timestamp="1524723707861">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="/work/idea_ws/FirstApp/build.sbt" timestamp="1564570176353">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+        <mark key="^" line="8" column="55" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/scala/HelloWorld.scala" timestamp="1564645865202">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="25" />
+        <mark key="." line="69" column="25" />
+        <mark key="^" line="69" column="25" />
+      </file>
+      <file name="/work/idea_ws/FirstApp/src/main/scala/FirstApp.scala" timestamp="1564569577245">
+        <mark key="[" line="14" column="110" />
+        <mark key="]" line="14" column="109" />
+        <mark key="." line="14" column="109" />
+        <mark key="^" line="14" column="109" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/scala/test.scala" timestamp="1565098946033">
+        <mark key="'" line="44" column="54" />
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="3" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/java/ServerExecutor.java" timestamp="1566953278113">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1523504676681">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/resources/redme.md" timestamp="1564614875157">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1567231160755">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Scala Console" timestamp="1564629572777">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/HelloWord.scala" timestamp="1564588859158">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/scala/socket.scala" timestamp="1564830571453">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/java/TestWatch.java" timestamp="1565099025694">
+        <mark key="[" line="22" column="108" />
+        <mark key="]" line="22" column="108" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="22" column="108" />
+      </file>
+      <file name="/work/testmaven/pom.xml" timestamp="1523611492601">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="43" column="16" />
+        <mark key="^" line="43" column="16" />
+      </file>
+      <file name="/work/idea_ws/sparkApp/build.sbt" timestamp="1564554949143">
+        <mark key="[" line="4" column="1" />
+      </file>
+      <file name="/work/idea_ws/Jersey/src/main/java/HelloAction.java" timestamp="1565359264340">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="/work/testmaven/src/main/scala/testmaven/App.scala" timestamp="1524622704864">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/works/wordcount" timestamp="1498309619055">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="/work/idea_ws/Jersey/pom.xml" timestamp="1565357338020">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/java/Fanshe.java" timestamp="1565685569023">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+      </file>
+      <file name="/work/idea_ws/sparkApp/src/main/scala/sparkApp.scala" timestamp="1564552102207">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/scala/SparkPi.scala" timestamp="1564712953454">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+      </file>
+      <file name="/work/idea_ws/Jersey/src/main/java/Main.java" timestamp="1565358997332">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/java/socket.java" timestamp="1564874932210">
+        <mark key="'" line="98" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1564843533123">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/work/idea_ws/HelloWord/src/main/java/Student.java" timestamp="1565686155146">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="16" column="20" filename="/works/src/wordCount.scala" />
+      <jump line="6" column="0" filename="/work/idea_ws/FirstApp/build.sbt" />
+      <jump line="21" column="26" filename="/work/idea_ws/HelloWord/pom.xml" />
+      <jump line="101" column="0" filename="/work/idea_ws/HelloWord/src/main/scala/HelloWorld.scala" />
+      <jump line="33" column="25" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="15" column="8" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="16" column="8" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="45" column="22" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="46" column="22" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="47" column="22" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="13" column="11" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="21" column="41" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="44" column="54" filename="/work/idea_ws/HelloWord/src/main/scala/test.scala" />
+      <jump line="98" column="4" filename="/work/idea_ws/HelloWord/src/main/java/socket.java" />
+      <jump line="90" column="0" filename="/work/idea_ws/Jersey/pom.xml" />
+      <jump line="28" column="0" filename="/work/idea_ws/HelloWord/src/main/java/Student.java" />
+      <jump line="29" column="0" filename="/work/idea_ws/HelloWord/src/main/java/Student.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="8">
+        <text>descriptorRef</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>g</text>
+      </register>
+      <register name="-" type="4">
+        <text>g</text>
+      </register>
+      <register name="/" type="4">
+        <text>carbon_table</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aC5yZWdpc3RlcihzZXJ2aWNlLCBTdGFuZGFyZFdhdGNoRXZlbnRLaW5kcy5FTlRSWV9DUkVBVEUsU3RhbmRhcmRXYXRjaEV2ZW50S2luZHMuRU5UUllfREVMRVRFLFN0YW5kYXJkV2F0Y2hFdmVudEtpbmRzLkVOVFJZX01PRElGWSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6LW15L6g5a6i44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIGJ5LXNh54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvd2h6aGFvY2hhby9hcnRpY2xlL2RldGFpbHMvNTAxMDgxOTMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6LW15L6g5a6i44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIGJ5LXNh54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvd2h6aGFvY2hhby9hcnRpY2xlL2RldGFpbHMvNTAxMDgxOTMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>carbon_table</last-search>
+      <last-offset />
+      <last-pattern>carbon_table</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>warehouse</entry>
+        <entry>metastore</entry>
+        <entry>args</entry>
+        <entry>carbon_table</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
